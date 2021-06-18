@@ -27,6 +27,28 @@
         height: 750px;
         padding-top: 100px;
     }
+    img.slider-img{
+        height: 400px !important
+    }
+    .custom-product{
+        height: 700px
+    }
+    .tranding-image{
+        height: 80px
+    }
+    .trading-item-img{
+        float: left;
+        width: 20%;
+    }
+    .trending-wrapper{
+        margin: 30px;
+    }
+    .detail-img{
+        height: 450px;
+    }
+    .search-box{
+        width: 500px !important
+    }
 </style>
 
 </html>
